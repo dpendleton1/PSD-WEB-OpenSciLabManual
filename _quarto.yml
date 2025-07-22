@@ -24,7 +24,7 @@ website:
         href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
         text: "NMFS National Passive Acoustic Monitoring Network"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
+        href: "https://github.com/dpendleton1/PSD-WEB-OpenSciLabManual/"
         text: "NMFS PAM SI Lab Manual Template"
 
     style: "docked"
