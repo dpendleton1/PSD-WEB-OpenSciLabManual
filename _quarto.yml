@@ -32,7 +32,7 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Home
+        text: Home1
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
