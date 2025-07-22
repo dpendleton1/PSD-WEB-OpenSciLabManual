@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Home1"
 subtitle: "Template for development of regional lab manuals as part of the Passive Acoustic Monitoring Strategic Initiative"
 page-layout: full
 ---
