@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual" 
-  repo-url: "https://github.com/dpendleton1/PSD-WEB-OpenSciLabManual"
+  site-url: "https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/" 
+  repo-url: "https://github.com/dpendleton1/PSD-WEB-OpenSciLabManual/"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
