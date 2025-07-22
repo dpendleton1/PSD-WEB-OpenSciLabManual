@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Offboarding.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/index.html</loc>
+    <lastmod>2025-07-22T18:09:05.081Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/OpenScience.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/Getting-Started.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Resources.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/Intro.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/rendering.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/code.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/rmarkdown.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/organize.html</loc>
-    <lastmod>2025-05-19T21:51:02.043Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/publishing.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/acknowledgements.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/acknowledgements.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Onboarding.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/LabManagement.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/OpenScience.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Offboarding.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Software.html</loc>
+    <lastmod>2025-07-22T18:09:05.079Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/PublicationsPresentations.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/SharedValues.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/SharedValues.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Inventory.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/FieldMethods.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/DataManagement.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/index.html</loc>
-    <lastmod>2025-05-19T21:51:02.047Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/PublicationsPresentations.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/SoftwareAnalysis.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Reporting.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/LabManagement.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/FieldMethods.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/AnalysisMethods.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/SoftwareAnalysis.html</loc>
+    <lastmod>2025-07-22T18:09:05.079Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/DataManagement.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Hardware.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Inventory.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/organize.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/rmarkdown.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/add-content.html</loc>
+    <lastmod>2025-07-22T18:09:05.073Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/publishing.html</loc>
-    <lastmod>2025-05-19T21:51:02.043Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/code.html</loc>
+    <lastmod>2025-07-22T18:09:05.073Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/rendering.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/Intro.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/NMFS_OpenSciDirections/add-content.html</loc>
-    <lastmod>2025-05-19T21:51:02.038Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/NMFS_OpenSciDirections/Getting-Started.html</loc>
+    <lastmod>2025-07-22T18:09:05.072Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Resources.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Safety.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-ost.github.io/PAM_template_lab_manual/content/Safety.html</loc>
-    <lastmod>2025-05-19T21:51:02.044Z</lastmod>
+    <loc>https://dpendleton1.github.io/PSD-WEB-OpenSciLabManual/content/Onboarding.html</loc>
+    <lastmod>2025-07-22T18:09:05.078Z</lastmod>
   </url>
 </urlset>
