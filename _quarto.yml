@@ -32,7 +32,15 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Home1
+        text: Home
+      - section: content/Pre-cruise preparation.qmd
+        contents: 
+          - href: content/Safety1.qmd
+            text: Safety
+          - href: content/Inventory1.qmd
+            text: Inventory
+          - href: content/Hardware1.qmd
+            text: Hardware
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
